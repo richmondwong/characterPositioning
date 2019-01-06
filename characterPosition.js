@@ -1,4 +1,5 @@
 var output = {};
+
 function characterPositioning(str) {
   var string = str.toLowerCase();
   for (var i = 0; i < string.length; i++ ){
